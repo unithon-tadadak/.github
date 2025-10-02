@@ -4,12 +4,12 @@
 
 ![1](./assets/1.gif)
 
-![2](https://github.com/user-attachments/assets/d9778a70-4782-43c2-ab8d-3e61916d3e9e)
+![2](./assets/2.gif)
 
-![3](https://github.com/user-attachments/assets/6630c989-7389-4515-93c8-39121229645a)  
+![3](./assets/3.gif)  
 
-![4](https://github.com/user-attachments/assets/17360e0c-e105-4e9e-bccc-10bfb1afcd76)  
+![4](./assets/4.gif)  
 
-![5](https://github.com/user-attachments/assets/480e6f7a-f9c7-4884-8dd0-aceb61dee18c)  
+![5](./assets/5.gif)  
 
-![6 공지방-진행상황_영수증인증](https://github.com/user-attachments/assets/d53c6c89-50c3-496d-b281-a5af721947c4)
+![6 공지방-진행상황_영수증인증](./assets/6.공지방-진행상황_영수증인증.gif)
